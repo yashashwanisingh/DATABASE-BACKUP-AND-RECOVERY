@@ -10,7 +10,7 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION:
+# DESCRIPTION:
 
 1. Documentation of the Process
 A. Objective
